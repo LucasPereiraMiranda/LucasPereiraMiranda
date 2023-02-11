@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: lucas](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)](https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)
+[![Linkedin: lucas](https://img.shields.io/badge/-lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)](https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)
 ![GitHub followers](https://img.shields.io/github/followers/LucasPereiraMiranda?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LucasPereiraMiranda.LucasPereiraMiranda)
 
