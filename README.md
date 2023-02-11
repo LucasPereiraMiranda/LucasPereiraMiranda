@@ -17,7 +17,10 @@ const lucas = {
   askMeAbout: ['backend', 'tech', 'linux'],
   technologies: {
     backEnd: {
-      js: ['Node', 'Fastify', 'Express', 'Laravel'],
+      js: ['Node', 'Fastify', 'Express'],
+    },
+    mobile: {
+      js: ['React-native'],
     },
     devOps: ['docker🐳', 'google cloud platform'],
     databases: ['postgres', 'mongo', 'mySql', 'sqlite'],
