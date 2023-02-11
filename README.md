@@ -17,7 +17,7 @@ const lucas = {
   askMeAbout: ['backend', 'tech', 'linux'],
   technologies: {
     backEnd: {
-      js: ['Node', 'Fastify', 'Express'],
+      js: ['Node', 'Fastify', 'Express', 'Nest.js'],
     },
     mobile: {
       js: ['React-native'],
