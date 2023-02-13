@@ -23,7 +23,7 @@ const lucas = {
     devOps: ['docker🐳', 'google cloud platform'],
     databases: ['postgres', 'mongo', 'mySql', 'sqlite'],
   },
-  architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub'],
+  architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
   currentFocus: ['Go', 'Frontend', 'always keep learning'],
   funFact: 'I love pets, learn about vim & linux',
 };
