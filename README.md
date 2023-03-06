@@ -18,7 +18,7 @@ const lucas = {
       js: ['Node', 'Fastify', 'Express', 'Nest.js'],
     },
     mobile: {
-      js: ['React-native'],
+      js: ['React native'],
     },
     devOps: ['docker🐳', 'google cloud platform'],
     databases: ['postgres', 'mongo', 'mySql', 'sqlite'],
