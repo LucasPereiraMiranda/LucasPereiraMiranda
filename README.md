@@ -12,7 +12,7 @@
 const lucas = {
   pronouns: 'He' | 'Him',
   code: ['Javascript', 'Python', 'Java', 'Go'],
-  askMeAbout: ['backend', 'techs', 'AI', 'linux'],
+  askMeAbout: ['backend', 'AI', 'linux'],
   technologies: {
     backEnd: {
       js: ['Node', 'Fastify', 'Express', 'Nest.js'],
