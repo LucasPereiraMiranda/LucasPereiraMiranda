@@ -6,7 +6,7 @@
 
 [![Linkedin: lucas](https://img.shields.io/badge/-lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)](https://www.linkedin.com/in/lucas-pereira-miranda-91452415b/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
+### A little more about me
 
 ```javascript
 const lucas = {
