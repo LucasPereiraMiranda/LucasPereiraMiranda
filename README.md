@@ -14,5 +14,23 @@
 ## 📊 Estatísticas do GitHub:
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucasPereiraMiranda&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![Estatísticas de sequência](https://github-readme-streak-stats.herokuapp.com/?user=LucasPereiraMiranda&theme=react&hide_border=true)
-![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereiraMiranda&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+
+<details>
+  <summary><strong>🔥 Estatísticas de sequência</strong></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPereiraMiranda&theme=react&hide_border=true" alt="Estatísticas de sequência">
+  </p>
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>🔝 Tecnologias principais</strong></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereiraMiranda&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens principais">
+  </p>
+</details>
