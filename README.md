@@ -24,7 +24,7 @@ const lucas = {
   },
   architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
   currentFocus: ['Go', 'Frontend', 'always keep learning'],
-  funFact: 'I love pets, anime & movies',
+  funFact: 'I love pets, anime & movies'
 };
 ```
 
