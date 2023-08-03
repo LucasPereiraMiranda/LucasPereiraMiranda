@@ -3,7 +3,7 @@
 <p><em>Backend Software Developer at <a href="https://www.clubpetro.com/">Clubpetro</a>
 </em></p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucas.miranda.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lucaspmiranda_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pereira-miranda-91452415b) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/proxygendiezl)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lucas.miranda.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lucaspmiranda_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-pereira-miranda-91452415b)
 
 ## 💻 A little more about me
 
@@ -24,7 +24,7 @@ const lucas = {
   },
   architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
   currentFocus: ['Go', 'Frontend', 'always keep learning'],
-  funFact: 'I love pets, anime & movies'
+  funFact: 'I love pets, anime & movies',
 };
 ```
 
