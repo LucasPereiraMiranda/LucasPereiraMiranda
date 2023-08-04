@@ -20,7 +20,7 @@ const lucas = {
       js: ['React native'],
     },
     devOps: ['docker🐳', 'google cloud platform'],
-    databases: ['postgres', 'mongo', 'mySql', 'sqlite'],
+    databases: ['postgres', 'mongo', 'mysql', 'sqlite'],
   },
   architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
   currentFocus: ['Go', 'Frontend', 'always keep learning'],
