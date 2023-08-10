@@ -1,5 +1,4 @@
 <h2>Hi there ✌️, I'm Lucas!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Software Developer at <a href="https://www.clubpetro.com/">Clubpetro</a>
 </em></p>
 
