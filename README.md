@@ -32,8 +32,3 @@ const lucas = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasPereiraMiranda&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="General stats">
 </p>
-
-<br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPereiraMiranda&theme=react&hide_border=true" alt="Sequency stats">
-</p>
