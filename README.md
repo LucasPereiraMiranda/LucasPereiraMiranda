@@ -18,7 +18,7 @@ const lucas = {
     mobile: {
       js: ['React native'],
     },
-    devOps: ['docker🐳', 'google cloud platform'],
+    devOps: ['docker🐳', 'google cloud platform', 'aws'],
     databases: ['postgres', 'mongo', 'mysql', 'sqlite'],
   },
   architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
