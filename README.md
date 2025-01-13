@@ -9,7 +9,7 @@
 ```javascript
 const lucas = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript', 'Python', 'Java', 'Go'],
+  code: ['Typescript', 'Python', 'Java', 'Go'],
   askMeAbout: ['backend', 'AI', 'linux'],
   technologies: {
     backEnd: {
