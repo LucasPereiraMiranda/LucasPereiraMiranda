@@ -22,7 +22,7 @@ const lucas = {
     databases: ['postgres', 'mongo', 'mysql', 'sqlite'],
   },
   architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
-  currentFocus: ['Go', 'Frontend', 'always keep learning'],
+  currentFocus: ['Frontend', 'always keep learning'],
   funFact: 'I love pets, anime & movies',
 };
 ```
