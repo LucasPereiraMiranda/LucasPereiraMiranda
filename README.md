@@ -6,26 +6,12 @@
 
 ## 💻 A little more about me
 
-```javascript
-const lucas = {
-  pronouns: 'He' | 'Him',
-  code: ['Typescript', 'Python', 'Java', 'Go'],
-  askMeAbout: ['backend', 'AI', 'linux'],
-  technologies: {
-    backEnd: {
-      js: ['Node', 'Fastify', 'Express', 'Nest.js'],
-    },
-    mobile: {
-      js: ['React native'],
-    },
-    devOps: ['docker🐳', 'google cloud platform', 'aws'],
-    databases: ['postgres', 'mongo', 'mysql', 'sqlite'],
-  },
-  architecture: ['Serverless', 'Microservice', 'Monorepo', 'Pub/Sub', 'Queue'],
-  currentFocus: ['Frontend', 'always keep learning'],
-  funFact: 'I love pets, anime & movies',
-};
-```
+I’m passionate about creating smart and scalable software solutions. While my focus is on backend technologies, I’m diving more into frontend as well.
+
+I love working with **microservices**, **serverless**, **message brokers**, **queues**, **cloud providers**, and constantly learning new tools to keep improving. Always staying curious!
+
+Outside of coding, I’m into anime, movies, and hanging out with pets. 😄
+
 
 ## 📊 GitHub stats
 
