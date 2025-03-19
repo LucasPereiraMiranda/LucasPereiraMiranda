@@ -12,9 +12,3 @@ I love working with **microservices**, **serverless**, **message brokers**, **qu
 
 Outside of coding, I’m into anime, movies, and hanging out with pets. 😄
 
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasPereiraMiranda&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="General stats">
-</p>
