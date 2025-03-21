@@ -6,7 +6,7 @@
 
 ## 💻 A little more about me
 
-I’m passionate about creating smart and scalable software solutions. While my focus is on backend technologies, I’m diving more into frontend as well.
+I’m passionate about building efficient and scalable software solutions. While my focus is on backend technologies, I’m diving more into frontend as well.
 
 I love working with **microservices**, **serverless**, **message brokers**, **queues**, **cloud providers**, and constantly learning new tools to keep improving. Always staying curious!
 
