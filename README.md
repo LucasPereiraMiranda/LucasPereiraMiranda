@@ -8,7 +8,7 @@
 
 I’m passionate about building efficient and scalable software solutions. While my focus is on backend technologies, I’m diving more into frontend as well.
 
-I love working with **microservices**, **serverless**, **message brokers**, **queues**, **cloud providers**, and constantly learning new tools to keep improving. Always staying curious!
+I have worked with **monoliths**, **microservices**, **databases**, **serverless**, **message brokers**, **queues**, and **cloud providers**. I’m constantly learning new tools to keep improving. Always staying curious!
 
 Outside of coding, I’m into anime, movies, and hanging out with pets. 😄
 
